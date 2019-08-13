@@ -711,6 +711,14 @@
     "display": "5.5 inch, 1920x1080 pixel(401ppi)",
     "cpuarch": "arm64"
   },
+  "mata": {
+    "cpu": "Qualcomm® Snapdragon™ 835",
+    "ram": "4GB",
+    "rom": "128GB",
+    "battery": "3040mAh",
+    "display": "5.7 inch, 2560×1312 pixel(504ppi)",
+    "cpuarch": "arm64"
+  },
   "natrium": {
     "cpu": "Qualcomm® Snapdragon™ 821",
     "ram": "6GB of LP-DDR4",
